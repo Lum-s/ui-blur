@@ -1,7 +1,7 @@
 [package]
-name = "nikovonn/ui-blur"
+name = "lum-s/ui-blur"
 description = "Use to generate a blur effect behind GUI Frames"
-version = "0.1.0"
+version = "0.1.1"
 license = "Apache-2.0"
 authors = ["NikoVonn"]
 registry = "https://github.com/UpliftGames/wally-index"
