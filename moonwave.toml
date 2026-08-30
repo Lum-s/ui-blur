@@ -1,0 +1,13 @@
+title = "UIBlur"
+gitSourceBranch = "main"
+changelog = true
+classOrder = ["UIBlur"]
+
+[docusaurus]
+tagline = "Strictly typed, animation-safe UI blur for Roblox"
+onBrokenLinks = "throw"
+onBrokenMarkdownLinks = "warn"
+
+[home]
+enabled = true
+includeReadme = true
